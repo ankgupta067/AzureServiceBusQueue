@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusPC", "ServiceBusPC\ServiceBusPC.csproj", "{34DCD251-3115-4F51-AC50-1D544DD5B9F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusC", "ServiceBusC\ServiceBusC.csproj", "{5736F208-A3E7-4614-95FC-3A25D6324135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34DCD251-3115-4F51-AC50-1D544DD5B9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DCD251-3115-4F51-AC50-1D544DD5B9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DCD251-3115-4F51-AC50-1D544DD5B9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DCD251-3115-4F51-AC50-1D544DD5B9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5736F208-A3E7-4614-95FC-3A25D6324135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5736F208-A3E7-4614-95FC-3A25D6324135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5736F208-A3E7-4614-95FC-3A25D6324135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5736F208-A3E7-4614-95FC-3A25D6324135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1C49C20-DF7E-47E2-9E97-B7928EA681AA}
+	EndGlobalSection
+EndGlobal
